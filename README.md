@@ -14,7 +14,7 @@ Teaching does that with a tenant-per-database architecture: the central applicat
 
 ## My role
 
-**Senior Laravel Backend Engineer**
+**Senior Laravel Backend Engineer & Team Lead**
 
 - Built the multi-tenant architecture: tenant provisioning, tenant-aware models, central versus tenant boundaries.
 - Built the domain: courses, sections, lessons, exams and the exam runner.
